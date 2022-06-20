@@ -1,38 +1,27 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+# ![](https://uploaddeimagens.com.br/images/003/846/382/full/icon.png)
+# Sobre o projeto
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+eCOgnitive é um aplicativo que visa monitorar os gases emitidos na atmosfera pelas indústrias por intermédio de gráficos.Temos a intenção de apoiar indústrias de todo o mundo a encontrarem caminhos para a produção sustentável.Basicamente, o nome do projeto surgiu através de um pensamento ecológico, visto que o meio ambiente e as indústrias se beneficiam com o uso consciente dos recursos e das informações prestadas,como vocês podem ver o "CO" destacado no eCO vem do elemento químico Monóxido de Carbono que é um dos poluentes mais emitidos por indústria  e também o principal causador do efeito estufa. O sufixo "gnitive" em união com o "COgnitive" trás a ideia de "cognição", ou seja, conhecimento, que é a premissa da aplicação.
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+## Descrição
+[Nest] Back End feito em Nest.js para a criação da API do projeto da Faculdade Senac PE.
+ Nela temos todos os Coletores cadastrados com todas as operações de CRUD implementadas e integradas com o Front End,
+ Disponível em <https://github.com/Vitoka07/Front-End-eCOgnitive>.
+ 
+![img2](https://user-images.githubusercontent.com/95776771/174686715-f65cbf81-e9af-49be-af73-9f428a2924a2.png)
 
-## Description
+## Tecnologias Utilizadas:
+ - Nest.js
+ - Sequelize
+ - MySql Workbench
+ - Insominia
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Instalação apos Download do projeto
+Rodar esse comando no Terminal do VScode:
 
-## Installation
-
-```bash
 $ npm install
-```
 
-## Running the app
+## Rodando a API
 
 ```bash
 # development
@@ -41,33 +30,8 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Descrição
